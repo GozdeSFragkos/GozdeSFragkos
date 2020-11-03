@@ -1,6 +1,6 @@
 # About Me
 <p>
-  <a href="https://www.gozdesaral.com/img_0992/"><img width="300" align='center' src="https://www.gozdesaral.com/img_0992/"></a>
+  <a href="https://www.gozdesaral.com/wp-content/uploads/2017/04/IMG_0992-e1492445746579.jpg"><img width="300" align='center' src="https://www.gozdesaral.com/img_0992/"></a>
 </p>
 
 <p class="has-text-align-left p1">I am a <b>data analyst/scientist and researcher</b>, passionate about using my data analysis and programming skills to contribute to the field of environmental science and the humanitarian sector. </p>
