@@ -1,4 +1,7 @@
 # About Me
+<p>
+  <a href="https://www.gozdesaral.com/"><img width="150" align='right' src="https://www.gozdesaral.com/img_0992/"></a>
+</p>
 
 <p class="has-text-align-left p1">I am a <b>data analyst/scientist and researcher</b>, passionate about using my data analysis and programming skills to contribute to the field of environmental science and the humanitarian sector. </p>
   
@@ -13,4 +16,5 @@
 <p> 
   
 <a href="https://www.linkedin.com/in/gsaral/"><img height="30" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA"></a>
+
  
