@@ -1,5 +1,5 @@
 # About Me
-<p>
+<p align='center'>
   <a href="https://www.gozdesaral.com/wp-content/uploads/2017/04/IMG_0992-e1492445746579.jpg"><img width="300" align='center' src="https://www.gozdesaral.com/wp-content/uploads/2017/04/IMG_0992-e1492445746579.jpg"></a>
 </p>
 
