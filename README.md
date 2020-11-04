@@ -1,8 +1,6 @@
-<p align='center'>
-  <a href="https://www.gozdesaral.com/wp-content/uploads/2017/04/IMG_0992-e1492445746579.jpg"><img width="300" align='center' src="https://www.gozdesaral.com/wp-content/uploads/2017/04/IMG_0992-e1492445746579.jpg"></a>
-</p>
 
-<p class="has-text-align-left p1">I am a <b>data analyst/scientist and researcher</b>, passionate about using my data analysis and programming skills to contribute to the field of environmental science and the humanitarian sector. </p>
+
+<p class="has-text-align-center p1">I am a <b>data analyst/scientist and researcher</b>, passionate about using my data analysis and programming skills to contribute to the field of environmental science and the humanitarian sector. </p>
   
 <p>After completing my Ph.D. degree at the University of Geneva in 2017, I started working as a research assistant at the interface of Astrophysics, Statistics, and Data Science at the University of Geneva. I have <strong>9 years</strong> of research experience in data-intensive fields in international working environments (<strong>Harvard University</strong>, <strong>University of Geneva</strong>). My research involved analyzing large datasets by using various advanced numerical tools, modeling, and image processing.</p>
 
