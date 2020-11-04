@@ -12,6 +12,6 @@
 
 <p align='center'> 
   
-<a href="https://www.linkedin.com/in/gsaral/"><img height="30" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA"></a>
+<a href="https://www.linkedin.com/in/gsaral/"><img height="40" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGyOWvr4W0Pow/company-logo_200_200/0?e=2159024400&v=beta&t=itrwplyUUwPAVxqxN8THySQds9p401UaOtZIurSBVnA"></a>
 
- </p>
+</p>
