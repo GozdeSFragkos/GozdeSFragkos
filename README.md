@@ -8,7 +8,7 @@
 
 <p>Having advanced hands-on Python for data analysis and programming skills I will present my projects here.</p>
 
-<p>Being new in Github environment, I will start by putting one of my recent codes about marketing analysis that I prepared for a job interview. Soon, I will be putting some other projects on environmental and humanitarian data.</p>
+<p>Being new in Github environment, I will start by putting one of my recent codes. Soon, I will be putting some other projects on environmental and humanitarian data.</p>
 
 <p align='center'> 
   
